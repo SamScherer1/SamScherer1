@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @SamScherer1
-- 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning iOS Development
-- 💞️ I’m looking to collaborate on iOS Development
+- 👋 Hi, I’m Sam
 
 <!---
 SamScherer1/SamScherer1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
